@@ -54,15 +54,15 @@ Configuration
 
 **searchDelay**
 
-    The delay, in milliseconds, between the user finishing typing and the search being performed. default: The minimum number of characters the user must enter before a search is performed._default: **1**_
+The delay, in milliseconds, between the user finishing typing and the search being performed. default: The minimum number of characters the user must enter before a search is performed._default: **1**_
 
 **minChars**
 
-    The minimum number of characters the user must enter before a search is performed. _default: **1**_
+The minimum number of characters the user must enter before a search is performed. _default: **1**_
 
 **principalType**
 
-    Principal type to search. _default: **0**_
+Principal type to search. _default: **0**_
 * 0 - [User, DL, SecGroup, SPGroup]
 * 1 - [User]
 * 2 - [DL]
@@ -71,7 +71,7 @@ Configuration
 
 **hintText**
 
-    The text to show in the dropdown label which appears when you first click in the search field. _default: **Type in a user/group name**_
+The text to show in the dropdown label which appears when you first click in the search field. _default: **Type in a user/group name**_
 
 **mySiteHostUrl**
 
